@@ -2,6 +2,7 @@ import { useState } from 'react'
 import Header from './components/Header';
 import Footer from './components/Footer';
 import MoviesGrid from './components/MoviesGrid';
+import '../styles.css';
 
 function App () {
   return (
